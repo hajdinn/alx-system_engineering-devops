@@ -12,4 +12,7 @@ Task 10 Look in the mirror: a script that sets the mode of the file hello the sa
 Task 11 Directories: To Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users without changing regular file
 Task 12 More directories: A script that creates a directory called my_dir with permissions 751 in the working directory
 Task 13 Change group: A script that changes the group owner to school for the file hello
-Task 14 
+Task 14 Owner and group: script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
+Task 15 Symbolic links:  a script that changes the owner and the group owner of _hello to vincent and staff respectively
+Task 16 If only:a script that changes the owner of the file hello to betty only if it is owned by the user guillaume
+Task 17 Star Wars: a script that will play the StarWars IV episode in the terminal
