@@ -1,0 +1,2 @@
+#!/bin/bash
+printf '%o\n' $(( $((3#$(echo $STIR | tr 'stir.' '23456'))) + $((3#$(echo $WATER | tr 'water' '23456'))) )) | tr '23456789' 'bestchol'
